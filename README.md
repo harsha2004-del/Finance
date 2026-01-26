@@ -1,1 +1,1 @@
- This is a basic web application built using Flask and SQLite to simulate a stock trading platform. The application allows users to register, log in, and trade stocks (buy and sell). It also includes functionalities for password reset and secure password hashing.
+ This is a basic web application built using Flask,PHP,MySql to simulate a stock trading platform. The application allows users to register, log in, and trade stocks (buy and sell). It also includes functionalities for password reset and secure password hashing.
